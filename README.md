@@ -4,6 +4,8 @@
 [Google 4](https://google.co.jp)
 [Google 5](https://google.as)
 [Google 6](https://google.com.bz)
+[Google 7](https://google.com.et)
+[Google 8](https://google.co.zm)
 
 [Bing](https://bing.com)
 
