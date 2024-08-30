@@ -2,6 +2,8 @@
 [Google 2](https://google.co.uk)
 [Google 3](https://google.com.ar)
 [Google 4](https://google.co.jp)
+[Google 5](https://google.as)
+[Google 6](https://google.com.bz)
 
 [Bing](https://bing.com)
 
